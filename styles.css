@@ -1,0 +1,36 @@
+body{
+    background: #FBE55C;
+}
+
+#btn{
+    width: 700px;
+    height: 300px;
+    background: #E86560;
+    border-radius: 50%;
+    margin: 30px auto;
+    text-align: center;
+    line-height: 300px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 50px;
+    cursor: pointer;
+    box-shadow: 0 20px 0 #B42458;
+    user-select: none;
+}
+
+#btn:active {
+    box-shadow: 0 10px 0 #B42458;
+    margin-top: 45px;
+}
+
+h1 {
+    position: relative;
+    padding: 0.2em 0.5em;
+    background: -webkit-linear-gradient(to right, #69B5D5, #c1e4f3);
+    background: linear-gradient(to right, #69B5D5, #c1e4f3);
+    color: white;
+    text-align: center;
+  }
+
+
+
